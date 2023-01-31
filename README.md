@@ -46,6 +46,7 @@ cd admin_blog_app
 cd server 
 ```
 Second step, you must simultaneously type command **npm install --legacy-peer-deps**
+Last steop, you must run ***npm start*** at 3 folders
 
 ***Install all anonymous variables by deliver into server/.env 
 ```

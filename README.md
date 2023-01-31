@@ -25,9 +25,9 @@ We have continuously found the solution for the above problem. And one of all so
 
 ***Below is admin interface:***
 ### Login Page
-![image](https://user-images.githubusercontent.com/91007037/215640860-da354e1b-ab16-4ced-8844-bb6191e5983e.png)
-### Home Page
 ![image](https://user-images.githubusercontent.com/91007037/215640809-acc42c9f-a442-403d-89de-9caa2ddf7149.png)
+### Home Page
+![image](https://user-images.githubusercontent.com/91007037/215640860-da354e1b-ab16-4ced-8844-bb6191e5983e.png)
 
 
 

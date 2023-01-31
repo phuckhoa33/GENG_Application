@@ -15,16 +15,17 @@ We have continuously found the solution for the above problem. And one of all so
 ![image](https://user-images.githubusercontent.com/91007037/215640717-ccb18d74-28c0-4de3-a82c-16a2774a3b18.png)
 ### Profile 
 ![image](https://user-images.githubusercontent.com/91007037/215640809-acc42c9f-a442-403d-89de-9caa2ddf7149.png)
+### Dashboard
+![image](https://user-images.githubusercontent.com/91007037/215640993-a7758043-adf5-430d-b14c-052de370ecf6.png)
+### AddEdit Page
+![image](https://user-images.githubusercontent.com/91007037/215641042-25135fa7-2eed-4941-9ed7-03215f45effa.png)
 
 ***Below is admin interface:***
 ### Login Page
 ![image](https://user-images.githubusercontent.com/91007037/215640860-da354e1b-ab16-4ced-8844-bb6191e5983e.png)
 **Home Page**
 ![image](https://user-images.githubusercontent.com/91007037/215640928-5edb7f41-01cd-4aa5-9ea5-3df14cff2f64.png)
-### Dashboard
-![image](https://user-images.githubusercontent.com/91007037/215640993-a7758043-adf5-430d-b14c-052de370ecf6.png)
-### AddEdit Page
-![image](https://user-images.githubusercontent.com/91007037/215641042-25135fa7-2eed-4941-9ed7-03215f45effa.png)
+
 
 
 ## Technologies of this application

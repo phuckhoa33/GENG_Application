@@ -1,0 +1,213 @@
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    padding: 0;
+  }
+.header {
+    
+}
+
+
+.login {
+    position: absolute;
+    top: 20%; 
+    left:33% ;
+    width: 60%;
+    margin: auto; 
+    max-width: 450px;
+    align-content: center;
+    margin-top: 300px;
+    border-radius: 5px;
+}
+
+
+
+
+.submit_part {
+    width: 20%;
+    position: absolute;
+    right: 10px;
+    top: 40px;
+}
+
+h3 {
+    margin-left: 4%;
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.label {
+    width: 73%;
+    margin: 0 4rem;
+    margin-bottom: 2rem;
+}
+
+.row {
+    margin-left: 9%;
+}
+
+.btn {
+    margin-left: 15%;
+    width: 73%;
+}
+
+.btn1 {
+    width: 30%;
+}
+
+.row1 {
+    width: 67%;
+    margin-left: 18%;
+}
+
+.foot {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.foot:hover{
+    cursor: pointer;
+}
+
+.not-found {
+    width: 60%;
+    height: 29rem;
+    position: absolute;
+    top: 2rem;
+    left: 16rem;
+    background-image: url("https://tranhieuit.com/wp-content/uploads/2019/04/ngan-chan-loi-404-wordpress.jpg");
+}
+
+.home {
+    width: 100%;
+    height: 100%;
+}
+
+.slider {
+    margin-top: -2rem;
+    height: 9rem;
+    width: 120%;
+    margin-left: 1.4rem;
+    background-color: transparent;
+}
+
+.slider-item{
+    width: 100px;
+    height: 150px;
+    overflow: hidden;
+    padding-right: 20px;
+    border-radius: 30px;
+}
+
+.slider-item:hover{
+    cursor: pointer;
+}
+
+.cover {
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    opacity: 0.5;
+}
+
+.slider-body{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    font-size: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.slick-prev:before {
+    color: rgb(217, 0, 255);
+}
+.slick-next:before {
+    color: rgb(217, 0, 255);
+}
+
+.related:hover{
+    cursor: pointer;
+}
+
+.user-item {
+    width: 58%;
+    margin-left: 7rem;
+    overflow: hidden;
+    height: 10rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.user-item:hover{
+    cursor: pointer;
+}
+
+.comment{
+    width: 58%;
+    margin-left: 7rem;
+    margin-bottom: 2rem;
+}
+
+.dialog {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+}
+
+.number {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5rem;
+    margin: 1.3rem 0;
+}
+
+.tag-live {
+    cursor: pointer;
+}
+
+.creator:hover{
+    cursor: pointer;
+}
+
+h5:hover{
+    cursor: pointer;
+}
+
+.editor {
+    width: 10rem;
+}
+
+.add_edit {
+    display: flex;
+}
+
+
+@media screen and (max-width:758rem) {
+    .add_edit {
+        display: block;
+    }
+}
+
+@media screen and (min-width:1000rem) {
+    .add_edit {
+        display: flex;
+    }
+}
+/* -------------------- */
+.main-content{
+    min-height: 230px;
+}
+.sidebar-content{
+    min-height: 100px;
+    margin-bottom: 30px;
+}
